@@ -30,6 +30,8 @@ Flutter Mobile App: GPS tracking, weather monitoring, and offline storage with S
 
 IoT Integration: Real-time bot status and waste analytics for energy-efficient operation.
 
+![alt text](<WhatsApp Image 2025-03-22 at 08.08.51_8433f2dd.jpg>)
+
 Technical Details
 
 AI-Powered Waste Segregation
@@ -48,6 +50,9 @@ Model: Custom CNN and YOLO Mini (85-90% accuracy).
 
 Future Plans: Expand to e-waste, recyclables, and cloud-based learning.
 
+![alt text](<WhatsApp Image 2025-03-22 at 08.09.39_e29eb957.jpg>)
+
+![alt text](IMG20250322130205[1].jpg)
 Autonomous Navigation
 
 
